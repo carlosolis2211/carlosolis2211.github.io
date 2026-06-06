@@ -1,0 +1,163 @@
+# Site
+repository: carlosolis2211/carlosolis2211.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Carlos Solís Sánchez
+title: Computer Science Student | Software Developer | QA & Automation Enthusiast
+email: TU_CORREO_AQUI
+website: https://carlosolis2211.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: carlosolis2211
+linkedin_username: TU_LINKEDIN_USERNAME
+# instagram_username:
+# youtube_username:
+# twitter_username:
+
+# Additional icon links
+additional_links:
+  - title: GitHub Portfolio
+    icon: fab fa-github
+    url: https://github.com/carlosolis2211
+  # - title: LinkedIn
+  #   icon: fab fa-linkedin
+  #   url: https://www.linkedin.com/in/TU_LINKEDIN_USERNAME/
+
+# Google Analytics and Tag Manager
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_profile_image: images/profile.jpg
+about_content: |
+  I am a Computer Science student focused on software development, backend systems, QA automation, and applied artificial intelligence. I enjoy building practical projects that combine clean interfaces, data processing, automation, and real-world problem solving.
+
+  I have worked with <mark>Python</mark>, <mark>JavaScript</mark>, <mark>React Native</mark>, <mark>Electron</mark>, <mark>Flask</mark>, <mark>Firebase</mark>, <mark>MATLAB</mark>, <mark>Docker</mark>, <mark>Git/GitHub</mark>, and basic cybersecurity/networking tools such as <mark>Nmap</mark> and <mark>PowerShell</mark>.
+
+  I am currently looking for internship or entry-level opportunities in <mark>Software Development</mark>, <mark>Backend</mark>, <mark>QA/Test Automation</mark>, <mark>Data/AI</mark>, or <mark>IT Automation</mark>.
+
+content:
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: CYAN — Home Network Security Desktop App
+        link: https://github.com/CarloRaulSolisSanchez/electron_test_UI
+        link_text: View Project
+        additional_links:
+          - title: GitHub Repository
+            icon: fab fa-github
+            url: https://github.com/CarloRaulSolisSanchez/electron_test_UI
+        quote: >
+          Desktop cybersecurity tool for monitoring devices, ports, traffic, and access control in a home network.
+        description: |
+          Developed the frontend of a desktop application using <mark>Electron</mark>, <mark>JavaScript</mark>, <mark>Firebase Authentication</mark>, and API integration with a <mark>Flask</mark> backend. The system includes user authentication, device authorization, network device listing, port scanning integration, traffic monitoring views, dark/light theme, and router credential management.
+
+          This project helped me strengthen my skills in frontend architecture, REST API consumption, authentication flows, Git workflows, desktop app packaging, and network/cybersecurity fundamentals.
+
+      - layout: top-middle
+        title: CityWalk — Smart Mobility Tourism App
+        # link: https://github.com/TU_USUARIO/TU_REPO_CITYWALK
+        # link_text: View Project
+        quote: >
+          Mobile app concept for cultural and scenic route generation in Guadalajara.
+        description: |
+          Built a mobile application prototype with <mark>React Native</mark> and <mark>Expo</mark> focused on smart tourism and urban mobility. The app includes map-based navigation, location permission flow, cultural points of interest, route generation concepts, visit tracking, and user settings.
+
+          The project was developed as part of a Smart Mobility challenge, including a white paper, presentation, prototype, and technical implementation.
+
+      - layout: top-middle
+        title: Predictive Logistics and Global Inventory Management
+        # link: https://github.com/TU_USUARIO/TU_REPO_LOGISTICS
+        # link_text: View Project
+        quote: >
+          Data and AI project for logistics analysis using clustering, neural networks, and route optimization concepts.
+        description: |
+          Developed an academic AI project in <mark>MATLAB</mark> using logistics and warehouse data. The project included <mark>K-Means clustering</mark> for grouping operational patterns, <mark>MLP neural networks</mark> for prediction, and <mark>Ant Colony Optimization</mark> concepts for route optimization.
+
+          I also worked on the documentation, methodology, results analysis, and a visual interface using MATLAB App Designer.
+
+      - layout: top-middle
+        title: AI and Machine Learning Academic Projects
+        quote: >
+          Collection of practical exercises involving supervised and unsupervised learning algorithms.
+        description: |
+          Implemented and analyzed machine learning models such as <mark>Perceptron</mark>, <mark>Adaline</mark>, <mark>Logistic Regression</mark>, <mark>KNN</mark>, <mark>K-Means</mark>, <mark>MLP</mark>, <mark>RBF networks</mark>, and <mark>CNN transfer learning</mark>. These projects helped me build a stronger understanding of model training, evaluation, classification, clustering, and data visualization.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: IT Support and Maintenance Experience
+        # link:
+        sub_title: Technical Support / Computer Maintenance
+        caption: 2025 - Present
+        quote: >
+          Hands-on support experience with Windows systems, hardware maintenance, networking, printers, and software troubleshooting.
+        description: |
+          Performed computer maintenance, Windows installation and configuration, HDD-to-SSD upgrades, system optimization, printer setup, network troubleshooting, remote support tools, and basic infrastructure tasks using routers, switches, Ethernet cabling, and diagnostics tools.
+
+          This experience helped me develop practical problem-solving skills, attention to detail, and the ability to support users in real technical environments.
+
+      - layout: left
+        title: Academic and Team Projects
+        sub_title: Software Developer / Frontend Developer / AI Project Contributor
+        caption: 2024 - Present
+        quote: >
+          Collaborative projects involving software development, artificial intelligence, documentation, and technical presentations.
+        description: |
+          Collaborated on academic and technical projects involving requirements analysis, frontend development, backend integration, documentation, GitHub workflows, testing, and presentations. I have worked with teams to design and implement software solutions while improving communication, organization, and technical documentation skills.
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Universidad de Guadalajara
+        caption: In progress
+        sub_title: Bachelor's Degree in Informatics / Computer Science
+        quote: >
+          Academic background focused on programming, artificial intelligence, systems, software development, and problem solving.
+        description: |
+          Relevant coursework and projects include artificial intelligence, knowledge-based systems, search algorithms, MATLAB-based machine learning, Prolog, software projects, data analysis, and technical documentation.
+
+  - title: Technical Skills
+    layout: text
+    content: |
+      **Programming & Development:** Python, JavaScript, TypeScript, Java basics, MATLAB, Prolog, HTML, CSS
+
+      **Frameworks & Tools:** Electron, React Native, Expo, Flask, Node.js, Express, Firebase, Docker, Git, GitHub, PowerShell
+
+      **AI & Data:** Machine Learning fundamentals, K-Means, MLP, Logistic Regression, KNN, CNN transfer learning, MATLAB App Designer, data visualization
+
+      **QA & IT:** Testing fundamentals, troubleshooting, Windows installation, hardware maintenance, networking basics, Nmap, remote support tools
+
+      **Soft Skills:** Teamwork, technical documentation, problem solving, adaptability, continuous learning
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      I am interested in software engineering, backend development, QA automation, artificial intelligence, cybersecurity fundamentals, and video game development.
+
+      Outside of academic and technical projects, I enjoy learning new technologies, improving my portfolio, exploring game development, and building practical tools that solve real problems.
+
+# Footer
+footer_show_references: true
+# references_title: References available upon request
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
