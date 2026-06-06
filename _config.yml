@@ -74,15 +74,6 @@ content:
           This project helped me strengthen my skills in frontend architecture, REST API consumption, authentication flows, Git workflows, desktop app packaging, and network/cybersecurity fundamentals.
 
       - layout: top-middle
-        title: Predictive Logistics and Global Inventory Management
-        quote: >
-          Data and AI project for logistics analysis using clustering, neural networks, and route optimization concepts.
-        description: |
-          Developed an academic AI project in <mark>MATLAB</mark> using logistics and warehouse data. The project included <mark>K-Means clustering</mark> for grouping operational patterns, <mark>MLP neural networks</mark> for prediction, and <mark>Ant Colony Optimization</mark> concepts for route optimization.
-
-          I also worked on the documentation, methodology, results analysis, and a visual interface using MATLAB App Designer.
-
-      - layout: top-middle
         title: Book Inventory Management System
         quote: >
           Inventory-style application for organizing books, tracking records, and managing structured information.
@@ -90,22 +81,6 @@ content:
           Developed a book inventory management project focused on organizing book records, categories, availability, and basic data operations. The project helped me practice structured data management, user interface organization, CRUD logic, search/filter concepts, and information tracking.
 
           This project strengthened my understanding of data organization, inventory workflows, and practical software development for real-world administrative processes.
-
-      - layout: top-middle
-        title: AI and Machine Learning Academic Projects
-        quote: >
-          Collection of practical exercises involving supervised and unsupervised learning algorithms.
-        description: |
-          Implemented and analyzed machine learning models such as <mark>Perceptron</mark>, <mark>Adaline</mark>, <mark>Logistic Regression</mark>, <mark>KNN</mark>, <mark>K-Means</mark>, <mark>MLP</mark>, <mark>RBF networks</mark>, and <mark>CNN transfer learning</mark>. These projects helped me build a stronger understanding of model training, evaluation, classification, clustering, and data visualization.
-
-      - layout: top-middle
-        title: CityWalk — Smart Mobility Tourism App
-        quote: >
-          Mobile app concept for cultural and scenic route generation in Guadalajara.
-        description: |
-          Built a mobile application prototype with <mark>React Native</mark> and <mark>Expo</mark> focused on smart tourism and urban mobility. The app includes map-based navigation, location permission flow, cultural points of interest, route generation concepts, visit tracking, and user settings.
-
-          The project was developed as part of a Smart Mobility challenge, including a white paper, presentation, prototype, and technical implementation.
 
       - layout: top-middle
         title: 2D Game Development Projects
