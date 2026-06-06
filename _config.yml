@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Carlo Raul Solis Sanchez
-title: Computer Science Student | Software Developer | QA & Automation Enthusiast
+title: Computer Science Student | Software Developer | IT Support
 email: carlo.crssn2003@gmail.com
 website: https://carlosolis2211.github.io
 
@@ -88,7 +88,7 @@ content:
           Developed 2D videogame prototypes using <mark>Unity</mark>, implementing player movement, collisions, platform mechanics, puzzle logic, and basic gameplay systems.
 
           These projects helped me improve my programming logic, debugging skills, problem solving, and understanding of interactive systems.
-          
+
   - title: Experience
     layout: list
     content:
