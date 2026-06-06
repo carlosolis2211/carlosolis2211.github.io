@@ -60,12 +60,12 @@ content:
     content:
       - layout: top-middle
         title: CYAN — Home Network Security Desktop App
-        link: https://github.com/CarloRaulSolisSanchez/electron_test_UI
-        link_text: View Project
-        additional_links:
-          - title: GitHub Repository
-            icon: fab fa-github
-            url: https://github.com/CarloRaulSolisSanchez/electron_test_UI
+        #link: https://github.com/CarloRaulSolisSanchez/electron_test_UI
+        #link_text: View Project
+        #additional_links:
+          #- title: GitHub Repository
+            #icon: fab fa-github
+            #url: https://github.com/CarloRaulSolisSanchez/electron_test_UI
         quote: >
           Desktop cybersecurity tool for monitoring devices, ports, traffic, and access control in a home network.
         description: |
